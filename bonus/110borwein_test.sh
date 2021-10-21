@@ -67,6 +67,9 @@ testbasic "0" "0" "test_res_0" "0" "test with 0"
 testbasic "10" "0" "test_res_10" "0" "test with 10"
 testbasic "100" "0" "test_res_100" "0" "test with 100"
 echo -e "${rose}Fin des tests basic."
+echo -e ""
+echo -e "${violetclair}By Noki and Arzuto, enjoy <3"
+echo -e "${neutre}"
 rm -f saveres
 
 exit $EXIT
